@@ -1,2 +1,0 @@
-# phone
-remote rebooten
